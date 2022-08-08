@@ -1,6 +1,15 @@
 # **Oi, eu sou o *Kadu*** 🐧
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaduh15&theme=tokyonight&hide=c&count_private=true)" />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduh15&amp;layout=compact&amp;theme=tokyonight&amp;hide=c,powershell,shell&amp;card_width=445)" style="max-width: 100%;">
-</a>
+### Bem vindo ao meu perfil GitHub 👋
+
+- 🌱 Atualmente estou aprendendo Desenvolvimento Web na Trybe.
+- 👯 Estou procurando colaborar em equipe, ajudando com monitorias aos finais de semana.
+- 💬 Meus hobbies são jogos, animes e séries.
+- ⚡ Curiosidade: Sou muito bom no boliche e corrida de kart. (Eu acho! :sweat_smile:)
+
+---
+
+<div>
+<img height="200rem" src="https://github-readme-stats.vercel.app/api?username=kaduh15&hide=shell,powershell,c&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduh15&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
