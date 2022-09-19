@@ -16,6 +16,8 @@
 <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=kaduh15&hide=shell,powershell,c&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduh15&layout=compact&langs_count=7&theme=github_dark&hide=c,shell,powershell"/>
 
+---
+
 | Languages | Frameworks and Technologies | Tools |
 |---|---|---|
 | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js&perline=3" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,react,express,docker,html,css&perline=3" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,figma,linux,bash,&perline=3" /></a></p> |
