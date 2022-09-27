@@ -23,7 +23,7 @@
 | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js&perline=3" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,react,express,docker,html,css&perline=3" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,figma,linux,bash,&perline=3" /></a></p> |
 
 <div>
-
+<div class="details">
 <details>
     <summary><h4>More skills</h4></summary>
 
@@ -117,6 +117,7 @@ Python                   1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 </div>
 </details>
+</div>
 
 </div>
 
