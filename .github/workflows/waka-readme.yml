@@ -6,29 +6,18 @@ name: Waka Readme
 # events but only for the master branch
 on:
   push:
-    branches: [ main ]
+    branches:
+      - master
+  workflow_dispatch:
   schedule:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
 
 jobs:
-  build:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      
-      - name: Update Readme
-        uses: kaduh15/kaduh15@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
