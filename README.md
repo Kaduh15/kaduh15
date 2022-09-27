@@ -38,12 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   22 hrs 48 mins  █████████████████████▒░░░   85.94 %
-YAML         1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-JSON         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Docker       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+From: 18 May 2022 - To: 27 September 2022
+
+Total Time: 198 hrs 28 mins
+
+JavaScript   175 hrs 58 mins >>>>>>>>>>>>>>>>>>>>>>---   88.66 %
+CSS          4 hrs 28 mins   >------------------------   02.26 %
+JSON         3 hrs 55 mins   -------------------------   01.97 %
+Other        3 hrs 24 mins   -------------------------   01.71 %
 ```
 
 <!--END_SECTION:waka-->
