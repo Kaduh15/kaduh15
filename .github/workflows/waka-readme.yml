@@ -20,3 +20,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: True
           SYMBOL_VERSION: 2
+          SHOW_EDITORS: False
