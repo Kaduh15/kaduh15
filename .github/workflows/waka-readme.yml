@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v2
       
       - name: Update Readme
-        uses: kaduh15/kaduh15e@main
+        uses: kaduh15/kaduh15@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
