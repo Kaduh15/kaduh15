@@ -1,4 +1,4 @@
-<div align="center" style="list-style: none;">
+<div align="center">
 
 # **Oi, eu sou o *Kadu*** 🐧
 ### Bem vindo ao meu perfil GitHub 👋
@@ -34,8 +34,11 @@
 
 </details>
 
-
+<details >
+    <summary><h4>My Time</h4></summary>
+<div align="start">
 <!--START_SECTION:waka-->
+	
 ![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
@@ -112,7 +115,8 @@ Python                   1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 27/09/2022 18:23:47 UTC
 <!--END_SECTION:waka-->
-
+</div>
+</details>
 
 </div>
 
