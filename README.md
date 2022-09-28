@@ -37,6 +37,7 @@
 <details >
     <summary><h4>My Time</h4></summary>
 <div align="start">
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2028%20mins-blue)
 
