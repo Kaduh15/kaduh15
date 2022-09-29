@@ -35,7 +35,7 @@
 </details>
 
 <details >
-    <summary><h4>My Time Code 👨‍💻</h4></summary>
+    <summary><h4>My coding time 👨‍💻</h4></summary>
 <div align="start">
 
 <!--START_SECTION:waka-->
