@@ -34,7 +34,7 @@
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=git" />
             </a>
-            <p>Prisma</p>
+            <p>Git</p>
         </td>
         <td align="center">
             <a href="https://skillicons.dev">
@@ -56,10 +56,12 @@
         </td>
         <td align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=prisma" />
+                <img src="https://skillicons.dev/icons?i=python" />
             </a>
-            <p>Styled Components</p>
+            <p>Pyhton</p>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=react" />
@@ -89,6 +91,13 @@
             </a>
             <p>Jest</p>
         </td>
+        <td align="center">
+            <a href="https://socket.io/">
+                <img src="https://socket.io/images/logo.svg" width="50"/>
+            </a>
+            <p>Socket.io</p>
+        </td>
+    </tr>
 </table>
 
 
@@ -97,7 +106,7 @@
 <details>
     <summary><h4>More skills</h4></summary>
 
-<table>
+<table width="100px">
     <tr>
         <td align="center">
             <a href="https://skillicons.dev">
@@ -129,6 +138,7 @@
             </a>
             <p>Sequelize</p>
         </td>
+    </tr>
         <td align="center">
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=nextjs" />
@@ -158,16 +168,20 @@
             </a>
             <p>Python</p>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" />
             </a>
             <p>pytest</p>
         </td>
-</table>
-
-<table>
-    <tr>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=prisma" />
+            </a>
+            <p>Prisma ORM</p>
+        </td>
         <td align="center">
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=styledcomponents" />
@@ -186,6 +200,8 @@
             </a>
             <p>Vite</p>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://vitest.dev">
                 <img src="https://vitest.dev/logo-shadow.svg" height="45px" />
@@ -210,6 +226,13 @@
             </a>
             <p>CSS</p>
         </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=vscode" />
+            </a>
+            <p>VSCode</p>
+        </td>
+    </tr>
 </table>
 
 </details>
