@@ -16,13 +16,14 @@
 <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=kaduh15&hide=shell,powershell,c&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduh15&layout=compact&langs_count=7&theme=github_dark&hide=c,shell,powershell"/>
 
+
 ---
 
 <div align="center">
     <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
 </div>
 
-<table>
+<table width="700px">
     <tr>
         <td align="center">
             <a href="https://skillicons.dev">
@@ -106,7 +107,7 @@
 <details>
     <summary><h4>More skills</h4></summary>
 
-<table width="100px">
+<table width="700px">
     <tr>
         <td align="center">
             <a href="https://skillicons.dev">
@@ -239,7 +240,11 @@
 
 <details >
     <summary><h4>My coding time 👨‍💻</h4></summary>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaduh15&layout=compact&langs_count=5&theme=github_dark&hide=c,shell,powershell,yaml,bash,json,markdown)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="start">
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
