@@ -1,8 +1,8 @@
 <div align="center">
 
-# **Oi, eu sou o *Kadu*** 🐧
-### Bem vindo ao meu perfil GitHub 👋
-
+## **Oi, eu sou o *Kadu*** 🐧
+## Bem vindo ao meu perfil GitHub 👋
+ ---
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web na Trybe.
 - 👯 Estou procurando colaborar em equipe, ajudando com monitorias aos finais de semana.
