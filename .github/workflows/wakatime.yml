@@ -1,10 +1,10 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -14,16 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_UPDATED_DATE: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_LOC_CHART: "True" 
-          COMMIT_SINGLE: "True"
+          LOCALE: pt_BR
+          SHOW_UPDATED_DATE: True
+          SHOW_LINES_OF_CODE: True
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_PROFILE_VIEWS: True
           SYMBOL_VERSION: 2
+          SHOW_EDITORS: False
+          SHOW_OS: False
