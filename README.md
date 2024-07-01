@@ -50,8 +50,6 @@
             <img align="center" src="https://img.shields.io/badge/-Styled%20Components-414141?style=flat&logo=styled-components" alt="Styled Components"/>
             <img align="center" src="https://img.shields.io/badge/-Tailwind%20CSS-414141?style=flat&logo=tailwind-css" alt="Tailwind CSS"/>
             <img align="center" src="https://img.shields.io/badge/-Vite-414141?style=flat&logo=vite" alt="Vite"/>
-            <img align="center" src="https://vitest.dev/logo-shadow.svg" height="45px" alt="Vitest"/>
-            <img align="center" src="https://img.shields.io/badge/-Redux-414141?style=flat&logo=redux" height="45px" alt="Redux"/>
             <img align="center" src="https://img.shields.io/badge/-HTML-414141?style=flat&logo=html5" alt="HTML"/>
             <img align="center" src="https://img.shields.io/badge/-CSS-414141?style=flat&logo=css3" alt="CSS"/>
             <img align="center" src="https://img.shields.io/badge/-VSCode-414141?style=flat&logo=visual-studio-code" alt="VSCode"/>
