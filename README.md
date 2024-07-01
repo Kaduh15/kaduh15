@@ -336,6 +336,8 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kaduh15/kaduh15/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+
 ---
 
 ## Connect with me:
@@ -354,3 +356,6 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div> 
 
 </div>
+
+
+![](https://hit.yhype.me/github/profile?user_id=81159579)
