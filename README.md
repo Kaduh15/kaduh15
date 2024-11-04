@@ -86,8 +86,6 @@
 
 > 📦 107.0 kB Used in GitHub's Storage 
  > 
-> 🏆 510 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -144,7 +142,7 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kaduh15/Kaduh15/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 18:43:24 UTC
+ Last Updated on 04/11/2024 18:44:55 UTC
 <!--END_SECTION:waka-->
 
 </div>
