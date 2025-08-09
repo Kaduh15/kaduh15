@@ -86,6 +86,8 @@
 
 > 📦 110.8 kB Used in GitHub's Storage 
  > 
+> 🏆 315 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 60 Public Repositories 
@@ -148,7 +150,7 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kaduh15/Kaduh15/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2025 18:53:31 UTC
+ Last Updated on 09/08/2025 18:52:30 UTC
 <!--END_SECTION:waka-->
 
 </div>
