@@ -76,9 +76,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -123,37 +123,39 @@ Sunday                   756 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-JSON                     28 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.92 % 
-Markdown                 25 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.48 % 
-TypeScript               10 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.14 % 
-CSS                      2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.86 % 
-HTML                     1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.80 % 
+Other                    3 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.96 % 
+JSON                     1 hr 27 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.23 % 
+Markdown                 1 hr 16 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.06 % 
+SQL                      1 hr                ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.16 % 
+JavaScript               35 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.56 % 
 
 🐱‍💻 Projects: 
-Carlos                   31 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.51 % 
-habit-tracker            16 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.64 % 
-01                       8 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.02 % 
-02                       7 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.06 % 
-Unknown Project          6 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.78 % 
+aprovale-chat            6 hrs 2 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.96 % 
+n8n                      55 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.21 % 
+Carlos                   32 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.06 % 
+Unknown Project          24 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.52 % 
+habit-tracker            19 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (100.0%)
+⏱ AI Coding Time: 9 hrs (100.0%)
 
-✍️ 3,409 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,429 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 872,372 Input Tokens, 45,030 Output Tokens
+🔤 6,867,869 Input Tokens, 221,885 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.14 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 24 AI Prompts
+🧠 25 AI Sessions, 125 AI Prompts
+
+Deepseek                 0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,075 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 676 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -174,7 +176,7 @@ Ruby                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kaduh15/Kaduh15/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:44:58 UTC
+ Last Updated on 04/08/2026 20:11:17 UTC
 <!--END_SECTION:waka-->
 
 </div>
