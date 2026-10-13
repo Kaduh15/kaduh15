@@ -123,33 +123,16 @@ Sunday                   772 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Other                    10 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.50 % 
-HTML                     6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.65 % 
-Markdown                 1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.84 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cv                       16 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.15 % 
-Unknown Project          1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.85 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (100.0%)
-
-✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 204,372 Input Tokens, 25,694 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,498 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,7 +152,7 @@ Ruby                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kaduh15/Kaduh15/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:57:21 UTC
+ Last Updated on 13/10/2026 23:04:09 UTC
 <!--END_SECTION:waka-->
 
 </div>
