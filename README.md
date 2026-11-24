@@ -5,18 +5,12 @@
 ### Engenheiro de Backend & Sistemas
 
 ```bash
-kaduh15@github:~$ neofetch
+kaduh15@github:~$ neofetch --profile
 ```
-<img align="left" src="https://raw.githubusercontent.com/Kaduh15/kaduh15/main/assets/bar_graph.png" width="300" height="180" style="margin-right: 20px;" />
 
-**USUÁRIO**: Kadu (kaduh15)  
-**SO**: CachyOS (Linux) / Wayland  
-**FOCO**: APIs de Alta Performance & Ferramentas CLI  
-**STACK**: Node.js, Python, TypeScript, Go  
-**EDITOR**: VS Code / Neovim  
-**SHELL**: Bash / Zsh  
-
-<br clear="left"/>
+<p align="center">
+  <b>SO:</b> CachyOS (Linux) &nbsp;&bull;&nbsp; <b>Foco:</b> APIs & Ferramentas CLI &nbsp;&bull;&nbsp; <b>Stack:</b> TypeScript, Python, Go
+</p>
 
 ---
 
