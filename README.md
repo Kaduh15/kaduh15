@@ -4,17 +4,27 @@
 
 ### Engenheiro de Backend & Sistemas
 
-<p align="center">
-  Construindo APIs robustas, ferramentas para desenvolvedores e serviços backend escaláveis. Apaixonado por Linux (CachyOS), TypeScript, Python e automação eficiente.
-</p>
+```bash
+kaduh15@github:~$ neofetch
+```
+<img align="left" src="https://raw.githubusercontent.com/Kaduh15/kaduh15/main/assets/bar_graph.png" width="300" height="180" style="margin-right: 20px;" />
+
+**USUÁRIO**: Kadu (kaduh15)  
+**SO**: CachyOS (Linux) / Wayland  
+**FOCO**: APIs de Alta Performance & Ferramentas CLI  
+**STACK**: Node.js, Python, TypeScript, Go  
+**EDITOR**: VS Code / Neovim  
+**SHELL**: Bash / Zsh  
+
+<br clear="left"/>
 
 ---
 
 </div>
 
 ### 🔭 O que estou fazendo
-- 🔭 Desenvolvendo serviços backend de alta performance e ferramentas de desenvolvimento
-- 🌱 Aprofundando conhecimentos em sistemas distribuídos e otimizações avançadas no Linux/CachyOS
+- 🔭 Desenvolvendo o **[commia](https://github.com/Kaduh15/commia)** (CLI de commits com IA)
+- 🌱 Otimizando fluxos no **Linux/CachyOS** e explorando Rust
 - 💬 Pergunte-me sobre **TypeScript, Node.js, Python, PostgreSQL e Linux**
 
 ---
@@ -32,12 +42,14 @@
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| **[commia](https://github.com/Kaduh15/commia)** | CLI para automatizar commits com Inteligência Artificial. | `TypeScript`, `Node.js` |
-| **[TempWiFi-Creator](https://github.com/Kaduh15/TempWiFi-Creator)** | Redes Wi-Fi temporárias seguras para estabelecimentos e Pix. | `Golang`, `Playwright`, `Fyne` |
-| **[queue](https://github.com/Kaduh15/queue)** | Gerenciador de fila e pagamentos com notificações no WhatsApp. | `TypeScript`, `Node.js` |
-| **[task-manager](https://github.com/Kaduh15/task-manager)** | Gerenciador de tarefas completo com autenticação JWT e Docker. | `Next.js`, `Express`, `Prisma` |
+<div align="center">
+
+| [commia](https://github.com/Kaduh15/commia) | [TempWiFi-Creator](https://github.com/Kaduh15/TempWiFi-Creator) | [queue](https://github.com/Kaduh15/queue) |
+| :---: | :---: | :---: |
+| 🤖 Commits com IA | 📶 Wi-Fi Temporário | 💳 Gestão de Filas |
+| `TypeScript` | `Golang` | `TypeScript` |
+
+</div>
 
 ---
 
