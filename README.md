@@ -1,24 +1,18 @@
 <div align="center">
 
-# Olá, sou o Kadu 👋
-
-### Engenheiro de Backend & Sistemas
-
-```bash
-kaduh15@github:~$ neofetch --profile
-```
-
-<p align="center">
-  <b>SO:</b> CachyOS (Linux) &nbsp;&bull;&nbsp; <b>Foco:</b> APIs & Ferramentas CLI &nbsp;&bull;&nbsp; <b>Stack:</b> TypeScript, Python, Go
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Kadu's GitHub Profile" src="dark_mode.svg" />
+</picture>
 
 </div>
 
+---
+
 ### 🔭 O que estou fazendo
 - 🔭 Desenvolvendo o **[commia](https://github.com/Kaduh15/commia)** (CLI de commits com IA)
-- 🌱 Otimizando fluxos no **Linux/CachyOS** e explorando Rust
+- 🌱 Otimizando fluxos no **Linux/CachyOS** e explorando automações eficientes
 - 💬 Pergunte-me sobre **TypeScript, Node.js, Python, PostgreSQL e Linux**
 
 ---
@@ -43,15 +37,6 @@ kaduh15@github:~$ neofetch --profile
 | 🤖 Commits com IA | 📶 Wi-Fi Temporário | 💳 Gestão de Filas |
 | `TypeScript` | `Golang` | `TypeScript` |
 
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kaduh15&hide=shell,powershell,c&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaduh15&layout=compact&langs_count=6&theme=github_dark&hide=c,shell,powershell&cache_seconds=86400" />
 </div>
 
 ---
